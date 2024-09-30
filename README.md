@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @33sami
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 olá, sou a Samira
+- 👀 estou interessada no github
+- 
+- 📫 como entrar em contato comigo @samira_zanellato
+- 😄 meu pronome é ela
+- ⚡ e eu faço karatê
 
 <!---
 33sami/33sami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ]
-![.](
+![.](https://tenor.com/pt-BR/view/tom-and-jerry-jerry-mouse-clap-hand-cheese-gif-14803045)
